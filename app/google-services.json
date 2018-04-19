@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "888968024383",
+    "firebase_url": "https://newgetawaysms.firebaseio.com",
+    "project_id": "newgetawaysms",
+    "storage_bucket": "newgetawaysms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888968024383:android:ee2a2cd73f0a3878",
+        "android_client_info": {
+          "package_name": "panda.smsgateway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888968024383-r32af749nh34a7hjis4pdgn97a0ikef9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7SgWHhMwYvndO9tUY7PHhww9t_RtHhMM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,55 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+*{
+    -ms-user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+}
+ 
+body{
+    -ms-user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+}
+ 
+ .enable-select {
+    -ms-user-select: all;
+    -moz-user-select: all;
+    -webkit-user-select: all;
+    user-select: all;
+}
+ 
+ 
+ 
+#preloader-block{
+	height: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+}
+ 
+#preloader-block .preloader-wrapper{
+	margin: 0 auto;
+}
+ 
+ 
+.hyphenate{
+	/*text-align : justify;*/
+}
+ 
+ 
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
